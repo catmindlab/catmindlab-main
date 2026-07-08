@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pickle
+*.pkl
+token.pickle
+client_secrets.json
+.DS_Store
